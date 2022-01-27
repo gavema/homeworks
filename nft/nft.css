@@ -1,0 +1,72 @@
+/*
+* { 
+    background-color:#101825;
+    color: #838a92;
+    box-sizing: border-box;
+}
+.container {
+
+}
+
+.card-container {
+    margin-top: 100px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    background-color:#152235;
+}
+.image-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #152235;
+}
+image.image-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    font-size: 18px;
+}
+div.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #838a92;
+    background-color: #152235;   
+}
+div.textdescription2 {
+    display: flex;
+    justify-content: space-between;
+    
+    color: #141516;
+    background-color: #152235;
+}
+.avatar{
+    text-align: left;
+    background-color: #152235;
+}
+div.creator {
+
+    background-color: #152235;
+}
+*/
+body{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #101825;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #152235;
+    padding: 1px;
+    width: auto;
+    height: auto;
+    margin:10%;
+    font-family: sans-serif;    
+}

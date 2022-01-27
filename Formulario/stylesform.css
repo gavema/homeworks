@@ -1,0 +1,56 @@
+body{
+    
+    background-color: black;
+}
+
+form{
+    text-align: right;
+    color: darkblue;
+    margin: 0 auto;
+    width: 400px;
+    background-color: lightsteelblue;
+    padding: 30px;
+}
+label{
+    font-size: 1rem;    
+    font-family: Verdana;
+
+}
+input{
+    padding: auto;
+    margin-top: 8px;
+    border-color: whitesmoke;
+}
+
+select {
+    font-size: .7rem;
+    padding: 2px 5px;
+}
+#signup{
+    text-align: left;
+    color: darkblue;
+    font: bold 20px sans-serif;
+}
+.button{
+    box-align: center;
+}
+footer{
+    color: grey;
+    text-align: center;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+#button{
+    background-color: green;
+    color: honeydew;
+    border-width: 1px;
+    box-align: center;    
+}
+.button{
+    text-align: center;
+    
+}
+  
+
+    
+

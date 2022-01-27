@@ -1,0 +1,29 @@
+body{
+    background-color: silver;
+    text-align: justify;
+    font: 15px Verdana;
+}
+img{
+    margin: auto;
+    display: block;
+    width: 115px;
+}
+.centro{
+    text-align: center;
+
+}
+#workexperience{
+    border: 2px solid darkgrey;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 13px;
+    
+}
+th, td{
+    border: 2px solid gray;
+    padding: .5rem;
+}
+#pie {
+    text-align: center;
+    font-size: 13px;
+}

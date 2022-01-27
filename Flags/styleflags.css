@@ -1,0 +1,130 @@
+/*France Flag */
+.france {
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+.blue {
+    width: 33.3%;
+    height: 250px;
+    background-color: darkblue;
+    display: inline-block;
+}
+.white {
+    display: inline-block;
+    width: 33.3%;
+    height: 250px;
+}
+.red {
+    display: inline-block;
+    width: 33.3%;
+    height: 250px;
+    background-color: red;
+}
+/*Mexican Flag */
+.mex-flex {
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+.green-mex-flex {
+    width: 33.3%;
+    height: 250px;
+    border: 1px solid black;
+    background-color: green;
+}
+.white-mex-flex {
+    display: inline-flex;
+    width: 33.3%;
+    height: 250px;
+    border: 1px solid black; 
+}
+.red-mex-flex {
+    width: 33.3%;
+    height: 250px;
+    border: 1px solid black;
+    background-color: red;
+}
+/*German Flag */
+.german-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+.black-flex {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+    background-color: black;
+}
+.red-german-flex {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+    background-color: red;
+}
+.gold-flex {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    border: 1px solid black;
+    background-color: gold;
+}
+/*Japan Flag */
+.japan-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+.japan-flex div {
+    display: flex;
+    background-color: red;
+    border-radius: 50%;
+    width: 20%;
+    height: 50%;
+}
+/*England Flag */
+.england-flex {
+    display: flex;
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+    background-color: red;    
+    border: 1px solid black;
+}
+#eng1 div {
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    height: 74px;
+    background-color: whitesmoke;
+    padding: 12px;
+    width: 283px;
+    margin-bottom:50px;
+    margin-right: 50px;
+}
+#eng2 div {
+    display: flex;
+    border: 1px solid black;
+    width: 50%;
+    height: 74px;
+    background-color: whitesmoke;
+    padding: 12px;
+    width: 283px;
+    margin-bottom:50px;
+}
+
+
